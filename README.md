@@ -70,3 +70,29 @@ I'm a Computer Science student at **Sanjivani University**, passionate about sof
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=samarth06s&theme=tokyonight" />
 </p>
+
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=samarth06s&theme=tokyo-night"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/samarth06s">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <b>Code • Create • Learn • Grow</b>
+</p>

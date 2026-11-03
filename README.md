@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/Samarth Shikari Developer Portfolio Banner.png"
+       width="100%"
+       alt="Samarth Shikari Developer Profile Banner">
+</p>
+
 # Hi, I'm Samarth Shikari 👋
 
 ### B.Tech Computer Science & Engineering Student | Developer | Content Creator

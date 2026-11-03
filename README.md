@@ -57,10 +57,10 @@ I'm a Computer Science student at **Sanjivani University**, passionate about sof
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarth06s&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth06s&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=samarth06s&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=samarth06s&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samarth06s&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com?user=samarth06s&theme=tokyonight" />
 </p>

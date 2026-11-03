@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Samarth Shikari 👋
 
-<!--
-**samarth06s/samarth06s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Computer Science & Engineering Student | Developer | Content Creator
 
-Here are some ideas to get you started:
+I'm a Computer Science student at **Sanjivani University**, passionate about software development, problem-solving, and exploring emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE — Sanjivani University
+- 💻 Interested in Java, C, C++, Python and Web Development
+- 🚀 Exploring AI/ML and Full-Stack Development
+- 📚 Currently strengthening my DSA and development skills
+- 🎯 Aspiring to build impactful real-world projects
+
+### 🛠️ Technical Skills
+
+- **Languages:** C, C++, Java, Python
+- **Web Development:** HTML, CSS, JavaScript
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code
+
+### 🚀 Featured Projects
+
+**Vehicle Rental Management System**
+- Java Swing desktop application with MySQL integration.
+- Features vehicle management, customer management, rental booking, returns, and PDF invoices.
+- [View Project](https://github.com/samarth06/VehicleRentalSystem)
+
+### 🏆 Achievements
+
+- First-year academic topper — CGPA 9.14
+- Google Student Ambassador
+- Joint Magazine Secretary — Student Activity Council
+- Full-Stack Web Development Intern — Unified Mentor
+
+### 🤝 Connect With Me
+
+- [GitHub](https://github.com/samarth06s)
+- [LinkedIn](https://www.linkedin.com/samarthshikari)
+
+---
+
+*Always learning. Always building. Always improving.*
